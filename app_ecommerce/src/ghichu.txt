@@ -1,0 +1,13 @@
+// Trong OnBroadingScreen chinh thong so resizeMode: 'cover', activeDotColor cho phu hop
+// Dang nhap bang gg facebook phan 14 32:53 tuong duong handleSignOut trong DrawerCustom
+
+
+// Đổi địa chỉ IP mới
+
+
+// Upload ảnh
+
+// Size, color trong chi tiết sản phẩm
+// Giá tiền trong Paypal
+
+//LOADING KHI VÀO CÁC TRANG CÓ SỰ THAY ĐỔI VỀ SẢN PHẨM
